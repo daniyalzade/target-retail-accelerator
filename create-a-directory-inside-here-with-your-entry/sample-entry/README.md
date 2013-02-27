@@ -1,4 +1,4 @@
-=Use this file to describe your entry.
+# Use this file to describe your entry.
 
 * You may also add a PDF or MS Word document to this directory.
 * Limit your description to no more than 2 pages.
