@@ -10,4 +10,11 @@
 6. To complete your Entry, submit a pull request (http://help.github.com/send-pull-requests/).  Only Entries with both a registration form and a pull request submitted by 11:59:59 PM ET on April 30, 2013 will be accepted.
 
 
+## Contest Conditions:
+
+1. Teams may consist of no more than eight (8) Contestants in total, including the team leader and members.  Any entries submitted by teams of more than eight (8) Contestants will be disqualified.
+2. All Contestants must be 18 years of age or older to enter the Contest.
+3. See [Contest Rules](http://www.fastcolabs.com/accelerator/retail/rules)
+4. See Target's [Privacy Policy](http://www.target.com/spot/privacy-policy)
+
 
